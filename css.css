@@ -264,3 +264,54 @@ opacity: 0;
 border-radius: 50%;
 }
 }
+
+/* responsive in 12/ 8 / 2022 from mohamed ali */
+
+@media (max-width: 590px){
+ .container {
+    width: 566px;
+}
+}
+
+@media (max-width: 564px){
+ .container {
+    width: 506px;
+}
+}
+
+@media (max-width: 500px){
+ .container {
+    width: 435px;
+}
+}
+
+@media (max-width: 426px){
+ .container {
+    width: 393px;
+}
+}
+
+@media (max-width: 390px){
+ .container {
+    width: 366px;
+}
+}
+
+
+@media (max-width: 360px){
+ .container {
+    width: 340px;
+}
+}
+
+@media (max-width: 330px){
+ .container {
+    width: 284px;
+}
+}
+
+@media (max-width: 291px){
+ .container {
+    width: 272px;
+}
+}
